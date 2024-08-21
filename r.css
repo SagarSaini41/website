@@ -1,0 +1,16 @@
+.bg{
+    background-image: url(./6163538.webp);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+    }
+    form{
+        background-color: white;
+        width:40%;
+        margin-left:30%;
+        margin-bottom:300px;
+        position: relative;
+        top: 63%;
+        border: 8px solid black;
+    }
